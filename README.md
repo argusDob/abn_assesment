@@ -40,6 +40,7 @@ npm run test:unit
 - [x] Enhance mobile responsiveness
 - [x] Implement skeleton loading states for better UX
 - [x] Support internationalization (i18n)
+- [x] Centralize common CSS logic
 
 ## 🛠 Tech Stack
 
