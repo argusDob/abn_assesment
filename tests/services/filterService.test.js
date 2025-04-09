@@ -1,6 +1,5 @@
 import { describe, it, expect, vi, beforeEach } from 'vitest'
 import FiltersService from '@/services/FiltersService'
-import ShowsService from '@/services/ShowsService'
 
 const mockGetShows = vi.fn()
 const mockSetCrimeShows = vi.fn()
