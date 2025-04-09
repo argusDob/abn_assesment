@@ -75,9 +75,9 @@ describe('FiltersService', () => {
 
   it('should filter shows by genre and rating', () => {
     mockGetShows.mockReturnValue([
-      { genres: ['Action'], weight: 90 }, // rating 5
-      { genres: ['Comedy'], weight: 70 }, // rating 4
-      { genres: ['Action'], weight: 70 }, // rating 4 ✅
+      { genres: ['Action'], weight: 90 },
+      { genres: ['Comedy'], weight: 70 },
+      { genres: ['Action'], weight: 70 },
     ])
 
     const filters = {
