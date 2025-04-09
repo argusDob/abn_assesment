@@ -26,6 +26,10 @@ npm run dev
 # Run tests
 npm run test:unit
 
+⚙️ Environment
+	•	Node.js: v18.17.0 (used for development & testing)
+
+
 ### 📌 Highlights
 
 - **Chunk-based Pagination:** Improves performance by loading 10 slides at a time as the user navigates.
