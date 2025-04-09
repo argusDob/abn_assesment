@@ -53,4 +53,5 @@ npm run test:unit
 - **Vitest** + `vi.mock()` for testing
 - **PrimeVue** (UI components like buttons, inputs)
 - **Swiper.js** for responsive carousels
+- **ESLint** for coding standards(Airbnb)
 - **TVMaze API** as the content provider
